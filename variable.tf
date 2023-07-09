@@ -48,3 +48,10 @@ variable "ssh_location" {
   description = "the ip address that can ssh into the ec2 instances"
   type        = string
 }
+
+# ALB variables
+variable "ssl_certificate_arn" {
+  default     = "arn:aws:acm:us-east-1:457353620876:certificate/9acac39d-6bdf-4888-b939-0b56fc72a165"
+  description = "ssl certificate arn"
+  type        = string
+}
