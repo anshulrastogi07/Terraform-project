@@ -1,6 +1,6 @@
 # Deploy a Dynamic Website on AWS with Terraform 
 
-## A fully functional EXAMPLE cloud project deployed on AWS to practice implementing Infrastructure as Code (Iac) tools and servives, including Terraform  
+## A fully functional EXAMPLE cloud project deployed on AWS to practice implementing Infrastructure as Code (IaC) tools and services, including Terraform  
 
 This project is an example that was built along with a tutorial series from AOSNOTE (www.aosnote.com) that teaches you how to use Terraform to create a dynamic website on AWS. This project allows you to appreciate the strength of deploying Infrastucture as code (Iac), which include:
 
